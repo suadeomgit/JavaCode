@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A1<day04_85efa1ff>",
+            "request": "launch",
+            "mainClass": "A1",
+            "projectName": "day04_85efa1ff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A2<day04_85efa1ff>",
+            "request": "launch",
+            "mainClass": "A2",
+            "projectName": "day04_85efa1ff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A3<day04_85efa1ff>",
+            "request": "launch",
+            "mainClass": "A3",
+            "projectName": "day04_85efa1ff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A4<day04_85efa1ff>",
+            "request": "launch",
+            "mainClass": "A4",
+            "projectName": "day04_85efa1ff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-B<day04_85efa1ff>",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "day04_85efa1ff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-C<day04_85efa1ff>",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "day04_85efa1ff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-D<day04_85efa1ff>",
+            "request": "launch",
+            "mainClass": "D",
+            "projectName": "day04_85efa1ff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E<day04_85efa1ff>",
+            "request": "launch",
+            "mainClass": "E",
+            "projectName": "day04_85efa1ff"
+        }
+    ]
+}
