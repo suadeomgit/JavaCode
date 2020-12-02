@@ -11,6 +11,7 @@ public class AClient {
 
     AClient(){
         try{
+            System.out.println("Hello World");
             s = new Socket(ip, port);
             pln("Server Connecting Seccess");
 
